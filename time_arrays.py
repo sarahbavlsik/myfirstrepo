@@ -4,7 +4,7 @@ In both cases, the program creates a data structure that holds an array of 10,00
 numbers between 1 and 7. Each process is clocked to evaluate the time taken. As the script 
 will prove, Numpy arrays can run up to 100 times faster than ordinary Python list objects.
 '''
-
+#hi
 
 import time
 import numpy as np
